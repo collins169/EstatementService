@@ -1,0 +1,10 @@
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\bin\Debug\FasylStatementLibrary.dll
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\bin\Debug\FasylStatementLibrary.pdb
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\bin\Debug\Newtonsoft.Json.dll
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\bin\Debug\PdfSharp.dll
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\bin\Debug\Util.dll
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\bin\Debug\Newtonsoft.Json.pdb
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\bin\Debug\Newtonsoft.Json.xml
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\obj\Debug\FasylStatementLibrary.dll
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\obj\Debug\FasylStatementLibrary.pdb
+F:\Devs\C#\Xnett SMS Alert and E-Statement\FasylStatementLibrary\obj\Debug\FasylStatementLibrary.csprojResolveAssemblyReference.cache
